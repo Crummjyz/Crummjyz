@@ -1,4 +1,4 @@
-Hi. I'm Crummjyz *(aka Crummjys, /krʌmdʒeɪz/)*.  
+### Hi. I'm Crummjyz *(aka Crummjys, /krʌmdʒeɪz/)*.  
 I'm a New Zealand highschool student interested in code, design, rockets, and 
 science in general. Together with my friends I work on projects over at 
 [fantail.dev](https://fantail.dev). For more detailed info on projects, check 
